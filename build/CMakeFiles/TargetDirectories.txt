@@ -1,3 +1,0 @@
-/home/Beapoe/C++/Project/test/build/CMakeFiles/test.dir
-/home/Beapoe/C++/Project/test/build/CMakeFiles/edit_cache.dir
-/home/Beapoe/C++/Project/test/build/CMakeFiles/rebuild_cache.dir

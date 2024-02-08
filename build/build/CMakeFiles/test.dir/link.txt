@@ -1,1 +1,0 @@
-/bin/c++ CMakeFiles/test.dir/src/main.cpp.o -o test  /home/Beapoe/C++/Project/test/src/libNeuralNet.a 
